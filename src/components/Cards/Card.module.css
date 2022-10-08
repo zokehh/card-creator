@@ -1,0 +1,7 @@
+.container {
+    width: 35vw;
+    height: 100vh;
+    background-image: url('../../assets/bg-main-desktop.png');
+    background-size: cover;
+    position: relative;
+}

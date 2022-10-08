@@ -1,0 +1,64 @@
+.container {
+    display: grid;
+    place-content: center;
+    margin: 0 auto;
+    width: 500px !important;
+}
+
+.input-wrapper {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    letter-spacing: 1.5px;
+}
+
+.input-wrapper input {
+    width: 400px;
+    height: 50px;
+    border: 1px solid lightgray;
+    border-radius: 7.5px;
+    font-size: 18px;
+    text-indent: 10px;
+    margin-top: 8px;
+}
+
+.input-wrapper label {
+    font-weight: bold;
+}
+
+.inputDateWrapper {
+    display: flex;
+}
+
+.inputDateWrapper input {
+    margin-left: 10px;
+    width: 100px;
+}
+
+.inputDateWrapper input:first-child {
+    margin-left: 0px;
+}
+
+.button {
+    width: 100%;
+    padding: 16px 0;
+    background-image: linear-gradient(to right, rgb(56, 225, 255), rgb(224, 98, 255));
+    border: none;
+    border-radius: 7.5px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.dateCVCwrapper {
+    display: flex;
+}
+
+.cvc {
+    width: 150px !important;
+    margin-left: 40px;
+}

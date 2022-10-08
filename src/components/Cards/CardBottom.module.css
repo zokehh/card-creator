@@ -1,0 +1,19 @@
+.cardBottom {
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    width: 447px;
+    height: 245px;
+    background-image: url('../../assets/bg-card-back.png');
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    color: white;
+    font-family: sans-serif;
+}
+
+.cardBottom p {
+    position: absolute;
+    top: 112.5px;
+    right: 60px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
