@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/card-creator/static/css/main.dce24136.css",
+    "main.js": "/card-creator/static/js/main.35c98068.js",
+    "static/media/bg-main-desktop.png": "/card-creator/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/card-creator/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/card-creator/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "index.html": "/card-creator/index.html",
+    "static/media/icon-complete.svg": "/card-creator/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "main.dce24136.css.map": "/card-creator/static/css/main.dce24136.css.map",
+    "main.35c98068.js.map": "/card-creator/static/js/main.35c98068.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce24136.css",
+    "static/js/main.35c98068.js"
+  ]
+}
